@@ -101,6 +101,12 @@ JAZZMIN_SETTINGS = {
         "auth": "fas fa-users-cog",
         "auth.user": "fas fa-user",
         "auth.Group": "fas fa-users",
+        "main.University": "fa-solid fa-building-columns",
+        'main.Sponsor': "fa-solid fa-user-tie",
+        'main.Student': "fa-solid fa-graduation-cap",
+        'main.StudentBudget': "fa-solid fa-money-bill-trend-up",
+        'main.LinearGraph': "fa-solid fa-chart-simple",
+        'main.MainDatas': "fa-solid fa-database",
     },
     # Icons that are used when one is not manually specified
     "default_icon_parents": "fas fa-chevron-circle-right",

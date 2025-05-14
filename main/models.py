@@ -103,7 +103,7 @@ class StudentBudget(BaseModel):
 class LinearGraph(BaseModel):
     numbers_sponsor = models.PositiveIntegerField(default=0)
     numbers_student = models.PositiveIntegerField(default=0)
-
+    day = models.DateTimeField()
 
 
     def __str__(self):
